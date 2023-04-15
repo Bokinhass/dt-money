@@ -1,5 +1,5 @@
 import * as Dialog from "@radix-ui/react-dialog";
-import { CloseButton, Content, Overlay } from "./styles";
+import { CloseButton, Content, Overlay, TransactionType } from "./styles";
 import { X } from "phosphor-react";
 
 export function NewTransactionModal() {
