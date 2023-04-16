@@ -1,0 +1,28 @@
+{
+  "transactions": [
+   {
+     "id": 1,
+     "description": "Desenvolvimento de site",
+     "type": "income",
+     "category": "Venda",
+     "price": 14000,
+     "createdAt": "2023-04-16T12:06:36.136Z"
+   },
+   {
+     "id": 2,
+     "description": "Hamburger",
+     "type": "outcome",
+     "category": "Alimentação",
+     "price": 60,
+     "createdAt": "2023-04-16T12:09:36.136Z"
+   },
+   {
+    "id": 3,
+    "description": "Curso React",
+    "type": "outcome",
+    "category": "Educação",
+    "price": 1980,
+    "createdAt": "2023-04-16T12:06:26.136Z"
+  }
+  ]
+ }
