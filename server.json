@@ -1,28 +1,76 @@
 {
   "transactions": [
-   {
-     "id": 1,
-     "description": "Desenvolvimento de site",
-     "type": "income",
-     "category": "Venda",
-     "price": 14000,
-     "createdAt": "2023-04-16T12:06:36.136Z"
-   },
-   {
-     "id": 2,
-     "description": "Hamburger",
-     "type": "outcome",
-     "category": "Alimentação",
-     "price": 60,
-     "createdAt": "2023-04-16T12:09:36.136Z"
-   },
-   {
-    "id": 3,
-    "description": "Curso React",
-    "type": "outcome",
-    "category": "Educação",
-    "price": 1980,
-    "createdAt": "2023-04-16T12:06:26.136Z"
-  }
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-04-16T12:06:36.136Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-04-16T12:09:36.136Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso React",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-04-16T12:06:26.136Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-04-18T23:16:44.364Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-18T23:27:02.216Z",
+      "id": 5
+    },
+    {
+      "description": "Leite",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-18T23:43:21.357Z",
+      "id": 6
+    },
+    {
+      "description": "Iogurte",
+      "price": 8,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-18T23:43:59.572Z",
+      "id": 7
+    },
+    {
+      "description": "Banana",
+      "price": 3,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-18T23:46:16.336Z",
+      "id": 8
+    },
+    {
+      "description": "Arroz",
+      "price": 25,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-18T23:47:51.752Z",
+      "id": 9
+    }
   ]
- }
+}
